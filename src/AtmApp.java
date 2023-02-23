@@ -14,6 +14,8 @@ public class AtmApp {
 
         //ramiz3
         System.out.println("ramiz branchi bir adim onde");
+
+        System.out.println("bazi degisiklikler yaptim ancak komitlemedim");
     }
 
 }
