@@ -9,6 +9,9 @@ public class AtmApp {
         System.out.println("Git i ogrenmek cok kolay");
         System.out.println("ramiz branchi yeni ozellik ekledi");
 
+        //master
+        System.out.println("Master branch te yeni ozellikler var");
+
     }
 
 }
