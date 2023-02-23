@@ -17,7 +17,7 @@ public class AtmApp {
 
         System.out.println("bazi degisiklikler yaptim ancak komitlemedim");
 
-        System.out.println("");
+        System.out.println("yeni degisiklikler");
     }
 
 }
